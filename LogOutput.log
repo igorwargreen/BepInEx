@@ -11,7 +11,7 @@
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
 [Info   :   BepInEx] 15 plugins to load
-[Info   :   BepInEx] Loading [HDLethalCompany-Sligili 1.5.3]
+[Info   :   BepInEx] Loading [HDLethalCompany-Sligili 1.5.2]
 [Info   :HDLethalCompany-Sligili] HDLethalCompany loaded
 [Info   :   BepInEx] Loading [LC_API 2.1.1]
 [Warning:    LC_API] 
@@ -99,20 +99,25 @@
 [Message:   BepInEx] Chainloader startup complete
 [Info   :    LC_API] LC_API Started!
 [Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Games/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
-[Message:    LC_API] server pre-setup success
 [Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Games/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Message:    LC_API] server pre-setup success
 [Info   :RugbugRedfern.SkinwalkerMod] HOST SENDING CONFIG TO CLIENTS
 [Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager Awake
 [Info   :LethalPosters] Patching Start in StartOfRound
 [Info   :LethalPosters] Patching the textures
 [Info   :LethalPosters] Patching Posters (Instance) with D:\Games\Lethal Company\BepInEx\plugins\LethalPosters\posters\48.png
-[Info   :LethalPosters] Patching TipsPoster (Instance) with D:\Games\Lethal Company\BepInEx\plugins\LethalPosters\tips\Golub.png
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: D:\Games\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
-[Error  :MetalPipeSFX.HornMoan] Error loading sounds: D:\Games\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
-HTTP/1.1 404 Not Found
+[Info   :LethalPosters] Patching TipsPoster (Instance) with D:\Games\Lethal Company\BepInEx\plugins\LethalPosters\tips\МыИскан.png
+[Info   :MetalPipeSFX.HornMoan] Loaded D:\Games\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded D:\Games\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded D:\Games\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\Moaning1.mp3
+[Info   :MetalPipeSFX.HornMoan] Loaded D:\Games\Lethal Company\BepInEx\plugins\MetalPipeSFX-HornMoan\MoaningFar.mp3
 [Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Games/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
 [Warning:    LC_API] Asking all other players for their mod list..
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Games/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Games/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Games/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Games/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Games/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
 [Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Games/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
 [Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Games/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
 [Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (D:/Games/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
